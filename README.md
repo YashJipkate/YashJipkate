@@ -1,4 +1,4 @@
-### Namaste, This is Yash Jipkate!
+### Namaste :pray:, This is Yash Jipkate! :robot:
 
 Final year undergrad at IIT(BHU), Varanasi :nerd_face:
 
@@ -9,7 +9,7 @@ Obsessed with code styling :wink:
 Anime, Memes, Netflix, Chocolate, Star Wars :heart_eyes:
 
 - 👯 Open to collaborate in active OSS projects.
-- 📫 Reach out to me by mail (yashjipkate@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yashjipkate/)
+- 📫 Reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashjipkate/)](https://www.linkedin.com/in/yashjipkate/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashjipkate@gmail.com)](mailto:yashjipkate@gmail.com)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=YashJipkate)](https://github.com/YashJipkate/github-readme-stats)
 <!--
