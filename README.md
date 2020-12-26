@@ -1,4 +1,4 @@
-### Namaste :pray:, This is Yash Jipkate! :robot:
+## Namaste :pray: This is Yash Jipkate! :robot:
 
 Final year undergrad at IIT(BHU), Varanasi :nerd_face:
 
