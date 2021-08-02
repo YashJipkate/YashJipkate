@@ -1,6 +1,6 @@
 ## Namaste :pray: This is Yash Jipkate! :robot:
 
-Final year undergrad at IIT(BHU), Varanasi :nerd_face:
+Technologist at Alphonso Labs Pvt Ltd :nerd_face:
 
 Interested in Web Development and DevOps, enthusiastic about Open Source :star_struck:
 
