@@ -1,6 +1,6 @@
 ## Namaste :pray: This is Yash Jipkate! :robot:
 
-Technologist at Alphonso Labs Pvt Ltd :nerd_face:
+Technologist at Alphonso Labs :nerd_face:
 
 Interested in Web Development and DevOps, enthusiastic about Open Source :star_struck:
 
